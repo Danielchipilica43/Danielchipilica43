@@ -99,23 +99,6 @@ Tenho uma mentalidade prática e gosto de construir projetos reais enquanto evol
 
 > “Aprender constantemente, construir com propósito e evoluir todos os dias.”
 
----
-
-# 📊 GitHub Analytics
-
-<p align="center">
-
-<img 
-  src="https://github-readme-stats.vercel.app/api?username=Danielchipilica43&show_icons=true&theme=tokyonight&count_private=true&cache_seconds=1800" 
-  height="170"
-/>
-
-<img 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danielchipilica43&layout=compact&theme=tokyonight&langs_count=8&cache_seconds=1800" 
-  height="170"
-/>
-
-</p>
 
 ---
 
