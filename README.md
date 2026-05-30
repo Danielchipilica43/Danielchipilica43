@@ -96,7 +96,7 @@ Tenho uma mentalidade prática e gosto de construir projetos reais enquanto evol
 
 <p align="center">
 
-<a href="mailto:teu-email@exemplo.com">
+<a href="mailto:chipilica701@gmail.com">
   <img src="https://img.shields.io/badge/Email-00C7B7?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
